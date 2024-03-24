@@ -8,7 +8,7 @@
   
 ## O Problema
 O dado é disponibilizado de forma que cada aba do arquivo do excel corresponde a uma consulta realizada desde Outubro de 2022. 
-Como os dados estão espalhados em diferentes dados a análise do desempenho é dificultada. 
+Como os dados estão espalhados em diferentes abas a análise do desempenho é dificultada. 
 
 ## Solução
 O intuito deste projeto é consolidar os dados de todas as abas em uma única tabela de forma que futuras análises sejam feitas mais fácilmente.
