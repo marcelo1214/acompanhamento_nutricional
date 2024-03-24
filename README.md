@@ -15,11 +15,16 @@ O intuito deste projeto é consolidar os dados de todas as abas em uma única ta
 
 # Resultados
 
-Passamos disso:
+Passamos de várias abas disso:
 
 ![image](https://github.com/marcelo1214/acompanhamento_nutricional/assets/74847223/5351b8f6-e9cf-4809-ad2a-192cf7c73580)
 
 Para isso:
 ![image](https://github.com/marcelo1214/acompanhamento_nutricional/assets/74847223/9a070a06-4775-4b64-bd4e-1ad4d1cc2a6b)
+
+
+E podemos fazer algumas análises :)
+
+![image](https://github.com/marcelo1214/acompanhamento_nutricional/assets/74847223/accda434-28cd-4a03-9bcd-53b3bc409e30)
 
 
