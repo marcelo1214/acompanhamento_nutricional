@@ -2,7 +2,7 @@
 
 # Consolidação de dados de acompanhemento nutricional.
 
-## O Problema:
+## O Problema
 A cada 2 meses aproximadamente, me consulto com um nutricionista que me auxília em meu processo de emagrecimento / hipertrofia. 
 Após a consulta ele me disponibiliza um arquivo Excel com as medidas corporais que foram medidas. 
 O dado é disponibilizado de forma que cada aba do arquivo do excel corresponde a uma consulta realizada desde Outubro de 2022. 
